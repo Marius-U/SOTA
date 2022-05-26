@@ -18,3 +18,4 @@ Where Mode can be:
 
 <h2>Gateway</h2>
 <p>On power-on, the gateway will connect to the hardcoded SSID using the hardcoded password. On a successful connection, the allocated IP address is printed on the serial communication to the PC.</p>
+<h2>Cluster</h2>
