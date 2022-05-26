@@ -1,0 +1,31 @@
+﻿  AES_GatewayFirmwareEncrypt.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(11,22): error C2039: 'filesystem': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\chrono(51): message : see declaration of 'std'
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(11,32): error C2871: 'filesystem': a namespace with this name does not exist
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(30,5): error C2065: 'path': undeclared identifier
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(30,10): error C2146: syntax error: missing ';' before identifier 'pathToFirmware'
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(30,10): error C3861: 'pathToFirmware': identifier not found
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(32,21): error C2065: 'pathToFirmware': undeclared identifier
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(32,64): error C2065: 'pathToFirmware': undeclared identifier
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(40,19): error C2065: 'pathToFirmware': undeclared identifier
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(40,83): error C2065: 'pathToFirmware': undeclared identifier
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(46,19): error C2065: 'pathToFirmware': undeclared identifier
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(46,86): error C2065: 'pathToFirmware': undeclared identifier
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(135,6): error C2039: 'vector': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\chrono(51): message : see declaration of 'std'
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(135,12): error C2143: syntax error: missing ';' before '<'
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(135,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(136,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(136,1): error C2447: '{': missing function header (old-style formal list?)
+  AES128.cpp
+  AES192.cpp
+  AES256.cpp
+  AESCommon.cpp
+  AESEsp32.cpp
+  BlockCipher.cpp
+  Crypto.cpp
+  myTestHandler.cpp
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\Crypto\myTestHandler.cpp(46,5): error C7555: use of designated initializers requires at least '/std:c++20'
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\Crypto\myTestHandler.cpp(55,5): error C7555: use of designated initializers requires at least '/std:c++20'
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\Crypto\myTestHandler.cpp(65,5): error C7555: use of designated initializers requires at least '/std:c++20'

@@ -1,0 +1,21 @@
+﻿  Scanning sources for module dependencies...
+  AES192.cpp
+  BlockCipher.cpp
+  AES_GatewayFirmwareEncrypt.cpp
+  AESEsp32.cpp
+  AESCommon.cpp
+  Crypto.cpp
+  AES128.cpp
+  AES256.cpp
+  myTestHandler.cpp
+  Compiling...
+  AES256.cpp
+  AES_GatewayFirmwareEncrypt.cpp
+  AES192.cpp
+  AESEsp32.cpp
+  BlockCipher.cpp
+  AESCommon.cpp
+  AES128.cpp
+  Crypto.cpp
+  myTestHandler.cpp
+  AES_GatewayFirmwareEncrypt.vcxproj -> C:\Users\umari\Source\Repos\C_sharp\AES_GatewayFirmwareEncrypt\Debug\AES_GatewayFirmwareEncrypt.exe

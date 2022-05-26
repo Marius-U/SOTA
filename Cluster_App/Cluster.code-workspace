@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Cluster_App",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp"
+		}
+	}
+}

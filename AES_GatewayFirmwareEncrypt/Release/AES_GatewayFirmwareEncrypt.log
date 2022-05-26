@@ -1,0 +1,15 @@
+﻿  AES_GatewayFirmwareEncrypt.cpp
+C:\Users\umari\source\repos\C_sharp\AES_GatewayFirmwareEncrypt\AES_GatewayFirmwareEncrypt.cpp(147,32): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
+  AES128.cpp
+  AES192.cpp
+  AES256.cpp
+  AESCommon.cpp
+  AESEsp32.cpp
+  BlockCipher.cpp
+  Crypto.cpp
+  myTestHandler.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 447 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AES_GatewayFirmwareEncrypt.vcxproj -> C:\Users\umari\Source\Repos\C_sharp\AES_GatewayFirmwareEncrypt\Release\AES_GatewayFirmwareEncrypt.exe
